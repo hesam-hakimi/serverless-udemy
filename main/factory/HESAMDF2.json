@@ -1,0 +1,9 @@
+{
+	"name": "HESAMDF2",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "97eb1381-d027-4a28-b11d-0710f98456aa",
+		"tenantId": "51dccd07-30ac-4656-b466-d321512ee749"
+	}
+}
